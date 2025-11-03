@@ -29,6 +29,9 @@ Motivation
 
 
 ## Output:
+[UI UX EXP 5.pdf](https://github.com/user-attachments/files/23297937/UI.UX.EXP.5.pdf)
 
 
 ## Result:
+2 different UX project scenarios (an e-commerce site, or a government service portal) presented successfully.
+
